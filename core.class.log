@@ -1,0 +1,62 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56998507979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01400143053AFD019BA',
+    participant: undefined
+  },
+  messageTimestamp: 1700495199,
+  pushName: 'Rokett',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'botones',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'botones',
+  from: '56998507979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a990a0b8-d631-4c0f-91be-46ae760e92b3',
+  keyword: 'key_97fabdf9-cdcf-4678-91d7-d286e14c9ed7',
+  answer: 'estos  son los botones',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd6e669c1b0646ca8f52fd0f39d9957d6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56992210694@s.whatsapp.net',
+    fromMe: false,
+    id: '1F355B8FEEFAAE738F21D4DDD16A8570',
+    participant: undefined
+  },
+  messageTimestamp: 1700497016,
+  pushName: 'Alejandra',
+  broadcast: false,
+  message: Message {
+    conversation: 'Viste k gano Miley en argentina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Viste k gano Miley en argentina',
+  from: '56992210694'
+}
